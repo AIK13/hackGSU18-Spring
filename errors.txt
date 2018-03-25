@@ -1,0 +1,22 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 237: expected statement.
+    classPeriod += 1
+                ^
+
+File "game/script.rpy", line 240: reached end of line when expecting ':'.
+    if schedule_choice2Flag is True
+                                   ^
+
+File "game/script.rpy", line 325: expected statement.
+    classPeriod += 1
+                ^
+
+File "game/script.rpy", line 327: reached end of line when expecting ':'.
+    if schedule_choice2Flag is True
+                                   ^
+
+Ren'Py Version: Ren'Py 6.99.14.1.3218
+Sun Mar 25 08:54:22 2018
